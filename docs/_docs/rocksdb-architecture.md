@@ -305,5 +305,5 @@ Key advantages include high write throughput, predictable query performance, fle
 
 - [RocksDB Wiki](https://github.com/facebook/rocksdb/wiki)
 - [RocksDB GitHub Repository](https://github.com/facebook/rocksdb)
-- [Getting Started Guide](getting-started.html)
-- [FAQ](support/faq.html)
+- [Getting Started Guide](/docs/getting-started.html)
+- [FAQ](/docs/support/faq.html)
